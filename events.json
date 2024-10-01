@@ -45,7 +45,11 @@
         "description": "Description 4",
         "date": "2020-01-04",
         "time": "15:00",
-        "speaker": "speaker 4"
+        "speaker": {
+          "name": "speaker 4",
+          "bio": "bio 4",
+          "photo": "photo 4"
+        }
       },
       {
         "id": 5,
