@@ -9,16 +9,19 @@
         "time": "15:00",
         "speakers": [
           {
+            "id": 0,
             "name": "speaker 1",
             "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
             "photo": "photo 1"
           },
           {
+            "id": 1,
             "name": "speaker 2",
             "bio": "bio 2",
             "photo": "photo 2"
           },
           {
+            "id": 2,
             "name": "speaker 3",
             "bio": "bio 3",
             "photo": "photo 3"
