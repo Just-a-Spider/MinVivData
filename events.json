@@ -7,6 +7,7 @@
         "description": "",
         "date": "Lunes, 14 de Octubre de 2024",
         "time": "09:35 a.m.",
+        "members_type": "Presentadores",
         "speakers": [
           {
             "id": 0,
@@ -29,9 +30,12 @@
         "id": 2,
         "title": "Panel",
         "description": "Innovación a través de modelos de negocio en la construcción progresiva de vivienda. Sistemas de mercado",
+        "registrationFormUrl": "",
+        "slides": "",
         "date": "2020-01-02",
         "time": "15:00",
         "qaTime": "15:30",
+        "members_type": "Panelistas",
         "speakers": [
           {
             "id": 0,
@@ -51,7 +55,9 @@
             "bio": "bio 3",
             "photo": "photo 3"
           }
-        ]
+        ],
+        "moderator": "Cindhy Barrientos Chávez",
+        "moderator_data": "Gerente de Inclusión Financiera e Innovación de Hábitat para la Humanidad"
       }
     ],
     "afternoon": [
