@@ -3,35 +3,32 @@
     "morning": [
       {
         "id": 1,
-        "title": "Presentation 1",
-        "description": "Description 1",
-        "date": "2020-01-01",
-        "time": "15:00",
+        "title": "Ceremonia de Inauguración ",
+        "description": "",
+        "date": "Lunes, 14 de Octubre de 2024",
+        "time": "09:35 a.m.",
         "speakers": [
           {
             "id": 0,
-            "name": "speaker 1",
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "photo": "photo 1"
+            "name": "David Ramos López",
+            "bio": "Viceministro de Vivienda y Urbanismo del Ministerio de Vivienda, Construcción y Saneamiento "
           },
           {
             "id": 1,
-            "name": "speaker 2",
-            "bio": "bio 2",
-            "photo": "photo 2"
+            "name": "Carlos Meza Montalvo",
+            "bio": "Director general de la Dirección General de Accesibilidad y Desarrollo Tecnológico"
           },
           {
             "id": 2,
-            "name": "speaker 3",
-            "bio": "bio 3",
-            "photo": "photo 3"
+            "name": "Durich Whittembury",
+            "bio": "Ministro de Vivienda, Construcción y Saneamiento"
           }
         ]
       },
       {
         "id": 2,
-        "title": "Presentation 2",
-        "description": "Description 2",
+        "title": "Panel",
+        "description": "Innovación a través de modelos de negocio en la construcción progresiva de vivienda. Sistemas de mercado",
         "date": "2020-01-02",
         "time": "15:00",
         "speakers": [
