@@ -34,11 +34,26 @@
         "description": "Description 2",
         "date": "2020-01-02",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 2",
-          "bio": "bio 2",
-          "photo": "photo 2"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 4",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 5",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 6",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       }
     ],
     "afternoon": [
@@ -48,11 +63,26 @@
         "description": "Description 3",
         "date": "2020-01-03",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 3",
-          "bio": "bio 3",
-          "photo": "photo 3"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       },
       {
         "id": 4,
@@ -60,11 +90,26 @@
         "description": "Description 4",
         "date": "2020-01-04",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 4",
-          "bio": "bio 4",
-          "photo": "photo 4"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       },
       {
         "id": 5,
@@ -72,11 +117,26 @@
         "description": "Description 5",
         "date": "2020-01-05",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 5",
-          "bio": "bio 5",
-          "photo": "photo 5"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       }
     ]
   },
@@ -88,11 +148,26 @@
         "description": "Description 7",
         "date": "2020-01-07",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 7",
-          "bio": "bio 7",
-          "photo": "photo 7"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       },
       {
         "id": 8,
@@ -100,11 +175,26 @@
         "description": "Description 8",
         "date": "2020-01-08",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 8",
-          "bio": "bio 8",
-          "photo": "photo 8"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       }
     ],
     "afternoon": [
@@ -114,11 +204,26 @@
         "description": "Description 9",
         "date": "2020-01-09",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 9",
-          "bio": "bio 9",
-          "photo": "photo 9"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       },
       {
         "id": 10,
@@ -126,11 +231,26 @@
         "description": "Description 10",
         "date": "2020-01-10",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 10",
-          "bio": "bio 10",
-          "photo": "photo 10"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       },
       {
         "id": 11,
@@ -138,11 +258,26 @@
         "description": "Description 11",
         "date": "2020-01-11",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 11",
-          "bio": "bio 11",
-          "photo": "photo 11"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       },
       {
         "id": 12,
@@ -150,11 +285,26 @@
         "description": "Description 12",
         "date": "2020-01-12",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 12",
-          "bio": "bio 12",
-          "photo": "photo 12"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       }
     ]
   },
@@ -166,11 +316,26 @@
         "description": "Description 13",
         "date": "2020-01-13",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 13",
-          "bio": "bio 13",
-          "photo": "photo 13"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       },
       {
         "id": 14,
@@ -178,11 +343,26 @@
         "description": "Description 14",
         "date": "2020-01-14",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 14",
-          "bio": "bio 14",
-          "photo": "photo 14"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       }
     ],
     "afternoon": [
@@ -192,11 +372,26 @@
         "description": "Description 15",
         "date": "2020-01-15",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 15",
-          "bio": "bio 15",
-          "photo": "photo 15"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       },
       {
         "id": 16,
@@ -204,11 +399,26 @@
         "description": "Description 16",
         "date": "2020-01-16",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 16",
-          "bio": "bio 16",
-          "photo": "photo 16"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       },
       {
         "id": 17,
@@ -216,11 +426,26 @@
         "description": "Description 17",
         "date": "2020-01-17",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 17",
-          "bio": "bio 17",
-          "photo": "photo 17"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       },
       {
         "id": 18,
@@ -228,11 +453,26 @@
         "description": "Description 18",
         "date": "2020-01-18",
         "time": "15:00",
-        "speaker": {
-          "name": "speaker 18",
-          "bio": "bio 18",
-          "photo": "photo 18"
-        }
+        "speakers": [
+          {
+            "id": 0,
+            "name": "speaker 1",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "photo": "photo 1"
+          },
+          {
+            "id": 1,
+            "name": "speaker 2",
+            "bio": "bio 2",
+            "photo": "photo 2"
+          },
+          {
+            "id": 2,
+            "name": "speaker 3",
+            "bio": "bio 3",
+            "photo": "photo 3"
+          }
+        ]
       }
     ]
   }
