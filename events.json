@@ -4,9 +4,7 @@
     "morning": [
       {
         "id": 1,
-        "title": "Ceremonia de Inauguración ",
-        "description": "",
-        "date": "Lunes, 14 de Octubre de 2024",
+        "title": "Ceremonia de Inauguración",
         "time": "09:35 a.m.",
         "members_type": "Presentadores",
         "speakers": [
@@ -32,7 +30,6 @@
         "title": "Panel",
         "description": "Innovación a través de modelos de negocio en la construcción progresiva de vivienda. Sistemas de mercado",
         "slides": "",
-        "date": "2020-01-02",
         "time": "10:00 a.m.",
         "qaTime": "10:30 a.m.",
         "members_type": "Panelistas",
@@ -60,6 +57,85 @@
         ],
         "moderator": "Cindhy Barrientos Chávez",
         "moderator_data": "Gerente de Inclusión Financiera e Innovación de Hábitat para la Humanidad"
+      },
+      {
+        "id": 3,
+        "title": "Conferencia",
+        "description": "Hacia el futuro de la vivienda noble en el Perú: desde la intersección del diseño computacional, fabricación digital, madera tratada, ensamblaje/desmontaje y código abierto para carbono negativo",
+        "slides": "",
+        "time": "10:45 a.m.",
+        "qaTime": "11:10 a.m.",
+        "members_type": "Expositor",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "Arq. Emerson Porras Sánchez",
+            "bio": "Docente de la Universidad Ricardo Palma"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Coffee Break",
+        "time": "11:25 a.m."
+      },
+      {
+        "id": 5,
+        "title": "Panel",
+        "description": "Mecanismos de financiamiento para mejoras progresivas de vivienda en poblaciones vulnerables. Microcréditos",
+        "slides": "",
+        "time": "11:45 a.m.",
+        "qaTime": "12:15 a.m.",
+        "members_type": "Panelistas",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "José Cerrón Valdivia",
+            "bio": "Director general de la Dirección General de Políticas y Regulación de Vivienda y Urbanismo del MVCS"
+          },
+          {
+            "id": 1,
+            "name": "John Sarmiento Tupayachi",
+            "bio": "Gerente de Servicios Financieros de la Federación Peruana de Cajas Municipales"
+          }
+        ],
+        "moderator": "Rodolfo Santa María Razzeto",
+        "moderator_data": "CEO de MASHA"
+      },
+      {
+        "id": 6,
+        "title": "Panel",
+        "description": "El impacto de la construcción progresiva de vivienda",
+        "slides": "",
+        "time": "12:30 a.m.",
+        "qaTime": "12:55 a.m.",
+        "members_type": "Panelistas",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "Álvaro Espinoza Benza",
+            "bio": "Investigador de GRADE"
+          },
+          {
+            "id": 1,
+            "name": "Gema Strático",
+            "bio": "Directora regional de Hábitat para la Humanidad"
+          }
+        ],
+        "moderator": "Gema Strático",
+        "moderator_data": "Directora Regional - Hábitat para la Humanidad"
+      },
+      {
+        "id": 7,
+        "title": "Conclusiones y Cierre",
+        "time": "1:10 p.m.",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "Ing. Martín Collado Ramírez",
+            "bio": "Director de Innovación y Desarrollo Tecnológico - DIDT"
+          }
+        ]
       }
     ]
   },
