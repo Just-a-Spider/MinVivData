@@ -4,7 +4,6 @@
     "morning": [
       {
         "id": 1,
-        "large": false,
         "title": "Ceremonia de Inauguración",
         "time": "09:35 a.m.",
         "members_type": "Presentadores",
