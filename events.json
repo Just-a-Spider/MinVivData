@@ -4,6 +4,7 @@
     "morning": [
       {
         "id": 1,
+        "large": false,
         "title": "Ceremonia de Inauguración",
         "time": "09:35 a.m.",
         "members_type": "Presentadores",
@@ -27,6 +28,7 @@
       },
       {
         "id": 2,
+        "large": false,
         "title": "Panel",
         "description": "Innovación a través de modelos de negocio en la construcción progresiva de vivienda. Sistemas de mercado",
         "slides": "",
@@ -60,6 +62,7 @@
       },
       {
         "id": 3,
+        "large": true,
         "title": "Conferencia",
         "description": "Hacia el futuro de la vivienda noble en el Perú: desde la intersección del diseño computacional, fabricación digital, madera tratada, ensamblaje/desmontaje y código abierto para carbono negativo",
         "slides": "",
@@ -81,6 +84,7 @@
       },
       {
         "id": 5,
+        "large": false,
         "title": "Panel",
         "description": "Mecanismos de financiamiento para mejoras progresivas de vivienda en poblaciones vulnerables. Microcréditos",
         "slides": "",
@@ -104,6 +108,7 @@
       },
       {
         "id": 6,
+        "large": false,
         "title": "Panel",
         "description": "El impacto de la construcción progresiva de vivienda",
         "slides": "",
