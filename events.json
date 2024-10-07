@@ -33,27 +33,29 @@
         "description": "Innovación a través de modelos de negocio en la construcción progresiva de vivienda. Sistemas de mercado",
         "slides": "",
         "date": "2020-01-02",
-        "time": "15:00",
-        "qaTime": "15:30",
+        "time": "10:00 a.m.",
+        "qaTime": "10:30 a.m.",
         "members_type": "Panelistas",
         "speakers": [
           {
             "id": 0,
-            "name": "speaker 4",
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "photo": "photo 1"
+            "name": "Jorge Botteri Betalleluz",
+            "bio": "Jefe de Marketing y Nuevos Negocios de Siderperú (Credicálidda)"
           },
           {
             "id": 1,
-            "name": "speaker 5",
-            "bio": "bio 2",
-            "photo": "photo 2"
+            "name": "Francisco Barúa Costa",
+            "bio": "CFO de UNACEM (Progresol)"
           },
           {
             "id": 2,
-            "name": "speaker 6",
-            "bio": "bio 3",
-            "photo": "photo 3"
+            "name": "Jesús Meza Luna",
+            "bio": "Gerente comercial de Inversiones IO"
+          },
+          {
+            "id": 3,
+            "name": "Tiago del Río San Martín",
+            "bio": "CEO/Founder de EQUIP"
           }
         ],
         "moderator": "Cindhy Barrientos Chávez",
