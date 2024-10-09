@@ -36,26 +36,31 @@
           {
             "id": 0,
             "name": "Jorge Botteri Betalleluz",
-            "bio": "Jefe de Marketing y Nuevos Negocios de Siderperú (Credicálidda)"
+            "photo_sufix": "jpg",
+            "bio": "<b>Cargo:</b> Jefe de Marketing y Nuevos Negocios<br><b>Entidad:</b> SIDERPERU<br>Jorge Botteri Betalleluz, MBA por la Universidad de La Rioja y actual jefe de Marketing y Nuevos Negocios en SIDERPERU, con más de 10 años de experiencia en procesos estratégicos de marketing, trade marketing y digital marketing, así como planeamiento estratégico comercial. Con sólidas habilidades y experiencia en investigación de mercado, análisis de datos, gestión de presupuestos, planificación y ejecución de estrategias de marketing y gestión de proyectos."
           },
           {
             "id": 1,
             "name": "Francisco Barúa Costa",
-            "bio": "CFO de UNACEM (Progresol)"
+            "photo_sufix": "jpeg",
+            "bio": "<b>Cargo:</b> Gerente de Administración y Finanzas<br><b>Entidad:</b> UNACEM Peru<br>El Sr. Barua es el Gerente de Administración y Finanzas de UNACEM desde enero de 2022. Entre sus funciones se encuentra el programa de innovación destinado a mejorar la productividad y la sostenibilidad de la empresa. Antes de ello, desde abril de 2014, se desempeñó como gerente de inversiones del Grupo UNACEM.<br>Antes de UNACEM, Francisco fue VP de banca de inversión de Larraín Vial en Chile y Asociado del grupo de banca de inversión para América Latina en Citi, Nueva York.<br>Francisco es bachiller en Economía por la Universidad del Pacífico en Perú y MBA por la Tuck School of Business de Dartmouth College. El Sr. Barua también ha tomado cursos de administración y finanzas en la Universidad de Columbia, la Escuela de Negocios de Harvard y Singularity Universidad."
           },
           {
             "id": 2,
             "name": "Jesús Meza Luna",
-            "bio": "Gerente Comercial de Inversiones IO"
+            "photo_sufix": "jpeg",
+            "bio": "<b>Cargo:</b> Gerente Comercial<br><b>Entidad:<b> Inversiones.IO<br>Con más de 12 años de experiencia como ejecutivo senior en el área comercial, ha trabajado en empresas líderes en microfinanzas, seguros, banca y comercio. Su especialización abarca la planificación financiera y comercial, gestión de riesgos e inversiones, así como la administración de carteras de clientes corporativos. Ha destacado en el análisis estratégico y de mercado dentro de los sectores industrial, bancario y asegurador. Su formación incluye el grado de Bachiller en Administración y Negocios Internacionales de la Universidad Peruana de Ciencias Aplicadas, respaldado por sólidas competencias en negociación, análisis, liderazgo y comunicación."
           },
           {
             "id": 3,
             "name": "Tiago del Río San Martín",
-            "bio": "CEO/Founder de EQUIP"
+            "photo_sufix": "PNG",
+            "bio": "<b>Cargo:</b> CEO/Founder<br><b>Entidad:</b> EQUIP S.R.L.<br>Tiago del Rio es fundador de EQUIP, el marketplace B2B de materiales de construcción donde las constructoras encuentran todos los materiales necesarios para sus proyectos, además de contar con opciones de entrega y crédito. Hoy en día, EQUIP atiende a más de 200 constructoras a nivel nacional, ayudándolas a ahorrar tiempo y dinero gracias al uso de tecnología innovadora. Su liderazgo ha consolidado a EQUIP como un aliado clave en la optimización de los procesos de adquisición en el sector construcción."
           }
         ],
         "moderator": "Cindhy Barrientos Chávez",
-        "moderator_data": "Gerente de Inclusión Financiera e Innovación de Hábitat para la Humanidad"
+        "moderator_sufix": "jpeg",
+        "moderator_data": "<b>Cargo:</b> Gerente de Inclusión Financiera e Innovación Pública<br><b>Entidad:</b> Hábitat para la Humanidad Internacional<br>Tiene una maestría en Gestión Estratégica de la Innovación por la Universidad de Sussex, con un enfoque en PM4R, Inclusión Financiera y Gobernanza e Innovación Pública. Actualmente es la Gerente de Inclusión Financiera e Innovación en el Centro Terwilliger para la Innovación en Vivienda, una división de Hábitat para la Humanidad Internacional, con sede en Lima, Perú. En este rol, gestiona y dirige iniciativas enfocadas en mejorar la inclusión financiera, fomentar la innovación y liderar esfuerzos de incidencia. Anteriormente, fue la Coordinadora Principal del Comité Asesor de Inclusión Financiera de las Mujeres en Perú y Gerente de Proyecto del Programa Nacional de Mujeres Emprendedoras del Perú. Además, fue la Coordinadora Principal del Grupo Técnico de Género para la Alianza del Pacífico y APEC, representando a Perú en esfuerzos por avanzar en la igualdad de género en foros regionales e internacionales."
       },
       {
         "id": 3,
@@ -68,7 +73,7 @@
           {
             "id": 0,
             "name": "Arq. Emerson Porras Sánchez",
-            "bio": "<b>Cargo</b>: Docente de la Facultad de Arquitectura y Urbanismo<br><b>Entidad</b>: Universidad Ricardo Palma,<br>Arquitecto por la Universidad Ricardo Palma, con estudios de Maestría en la Architectural Association School of Architecture de Londres y en Docencia e Investigación por la Universidad San Martín de Porres. Con más de 18 años de trayectoria profesional, se desempeña como Codirector del Laboratorio de Diseño y Fabricación Digital de la FAU URP, además de ser investigador registrado en RENACYT. Ha sido reconocido por su innovación pedagógica y cuenta con diversas publicaciones sobre tecnologías emergentes en arquitectura."
+            "bio": "<b>Cargo:</b> Docente de la Facultad de Arquitectura y Urbanismo<br><b>Entidad:</b> Universidad Ricardo Palma,<br>Arquitecto por la Universidad Ricardo Palma, con estudios de Maestría en la Architectural Association School of Architecture de Londres y en Docencia e Investigación por la Universidad San Martín de Porres. Con más de 18 años de trayectoria profesional, se desempeña como Codirector del Laboratorio de Diseño y Fabricación Digital de la FAU URP, además de ser investigador registrado en RENACYT. Ha sido reconocido por su innovación pedagógica y cuenta con diversas publicaciones sobre tecnologías emergentes en arquitectura."
           }
         ]
       },
