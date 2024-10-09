@@ -140,6 +140,7 @@
         "id": 7,
         "title": "Conclusiones y Cierre",
         "time": "1:10 p.m.",
+        "members_type": "Presentador",
         "speakers": [
           {
             "id": 0,
@@ -401,6 +402,7 @@
         "id": 24,
         "title": "Conclusiones y cierre",
         "time": "12:35 p.m.",
+        "members_type": "Presentador",
         "speakers": [
           {
             "id": 0,
@@ -414,6 +416,7 @@
         "id": 25,
         "title": "Clausura",
         "time": "12:35 p.m.",
+        "members_type": "Presentador",
         "speakers": [
           {
             "id": 0,
