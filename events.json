@@ -17,7 +17,8 @@
           {
             "id": 1,
             "name": "David Ramos López",
-            "bio": "Viceministro de Vivienda y Urbanismo del Ministerio de Vivienda, Construcción y Saneamiento "
+            "photo_sufix": "jpg",
+            "bio": "<b>Cargo:</b> Viceministro de Vivienda y Urbanismo del Ministerio de Vivienda, Construcción y Saneamiento<br><b>Entidad:</b> Ministerio de Vivienda, Construcción y Saneamiento<br>Magíster en Administración estratégica de empresas, Arquitecto con más de 25 años de experiencia profesional, directiva y gerencial en el sector público y privado. Especializado en proyectos de inversión y de desarrollo, en la elaboración e implementación de regulación normativa; en políticas públicas relacionadas a programas sociales y al sector construcción-inmobiliario, vivienda, saneamiento e infraestructura. Ha ocupado diferentes cargos en el sector público como Gerente de Planeamiento y Operaciones de COFOPRI, Director Nacional de Vivienda, Director Nacional de Construcción, Director del Fondo Mi Vivienda y actual Viceministro de Vivienda y Urbanismo."
           },
           {
             "id": 2,
@@ -75,6 +76,7 @@
           {
             "id": 0,
             "name": "Arq. Emerson Porras Sánchez",
+            "photo_sufix": "jpg",
             "bio": "<b>Cargo:</b> Docente de la Facultad de Arquitectura y Urbanismo<br><b>Entidad:</b> Universidad Ricardo Palma,<br>Arquitecto por la Universidad Ricardo Palma, con estudios de Maestría en la Architectural Association School of Architecture de Londres y en Docencia e Investigación por la Universidad San Martín de Porres. Con más de 18 años de trayectoria profesional, se desempeña como Codirector del Laboratorio de Diseño y Fabricación Digital de la FAU URP, además de ser investigador registrado en RENACYT. Ha sido reconocido por su innovación pedagógica y cuenta con diversas publicaciones sobre tecnologías emergentes en arquitectura."
           }
         ]
@@ -416,7 +418,8 @@
           {
             "id": 0,
             "name": "David Ramos López",
-            "bio": "Viceministro de Vivienda y Urbanismo del Ministerio de Vivienda, Construcción y Saneamiento"
+            "photo_sufix": "jpg",
+            "bio": "<b>Cargo:</b> Viceministro de Vivienda y Urbanismo del Ministerio de Vivienda, Construcción y Saneamiento<br><b>Entidad:</b> Ministerio de Vivienda, Construcción y Saneamiento<br>Magíster en Administración estratégica de empresas, Arquitecto con más de 25 años de experiencia profesional, directiva y gerencial en el sector público y privado. Especializado en proyectos de inversión y de desarrollo, en la elaboración e implementación de regulación normativa; en políticas públicas relacionadas a programas sociales y al sector construcción-inmobiliario, vivienda, saneamiento e infraestructura. Ha ocupado diferentes cargos en el sector público como Gerente de Planeamiento y Operaciones de COFOPRI, Director Nacional de Vivienda, Director Nacional de Construcción, Director del Fondo Mi Vivienda y actual Viceministro de Vivienda y Urbanismo."
           }
         ]
       }
