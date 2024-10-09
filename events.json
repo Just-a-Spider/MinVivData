@@ -10,8 +10,9 @@
         "speakers": [
           {
             "id": 0,
-            "name": "Carlos Meza Montalvo",
-            "bio": "Director General de la Dirección General de Accesibilidad y Desarrollo Tecnológico"
+            "name": "Ing. Carlos Meza Montalvo",
+            "photo_sufix": "jpeg",
+            "bio": "<b>Cargo: </b>Director General de la Dirección general de Accesibilidad y Desarrollo Tecnológico<br><b>Entidad:</b> Ministerio de Vivienda, Construcción y Saneamiento<br>Ingeniero Industrial con experiencia como profesional senior en la Gerencia de Proyectos de Alta Complejidad en TI como la implementación de nubes privadas, virtualización de servidores y data centers, experiencia en Gerencia de TI y en el manejo de Oficinas de Gestión de Proyectos, Director General de la Dirección General de Accesibilidad y Desarrollo Tecnológico del Ministerio de Vivienda, Construcción y Saneamiento del Ministerio de Vivienda, Construcción y Saneamiento."
           },
           {
             "id": 1,
@@ -20,8 +21,9 @@
           },
           {
             "id": 2,
-            "name": "Durich Whittembury",
-            "bio": "Ministro de Vivienda, Construcción y Saneamiento"
+            "name": "Durich Francisco Whittembury Talledo",
+            "photo_sufix": "png",
+            "bio": "<b>Cargo: </b>Ministro de Vivienda, Construcción y Saneamiento<br><b>Entidad:</b> Ministerio de Vivienda, Construcción y Saneamiento<br>Ingeniero químico de la Universidad Nacional de Trujillo, magíster en Administración de Negocios por la Universidad San Ignacio de Loyola. Cuenta con más de 30 años de experiencia gerencial, laborando en instituciones públicas y privadas, con incidencia en temas de gestión de proyectos de inversión. Se ha desempeñado como secretario general del Ministerio de Vivienda, Construcción y Saneamiento y miembro del directorio del Fondo Mivivienda. También trabajó en el Ministerio de Trabajo y Promoción del Empleo, Congreso de la República, Municipalidad Metropolitana de Lima, Municipalidad de Surco, entre otras instituciones públicas y privadas."
           }
         ]
       },
@@ -123,6 +125,7 @@
           {
             "id": 1,
             "name": "Gema Strático",
+            "photo_sufix": "jpg",
             "bio": "<b>Cargo:</b> Directora Regional<br><b>Entidad:</b> Hábitat para la Humanidad Internacional<br>Gema Stratico es la Directora Regional para América Latina y el Caribe de Hábitat para la Humanidad Internacional, con casi una década de experiencia en vivienda inclusiva y sistemas de mercado. Lidera esfuerzos para hacer que la vivienda sea accesible para familias de bajos ingresos en Perú, aprovechando sus habilidades en emprendimiento social y relaciones internacionales. En el Centro Terwilliger para la Innovación en Vivienda, supervisa la investigación, el diseño de programas y la implementación de soluciones innovadoras y sostenibles para la vivienda. Gema tiene una maestría en Políticas Públicas de Desarrollo Internacional de la Universidad de Duke y una licenciatura en Administración de Empresas de la Universidad del Salvador, con más de 15 años de experiencia en microfinanzas para vivienda y sistemas de mercado."
           }
         ],
@@ -155,7 +158,8 @@
           {
             "id": 0,
             "name": "Ing. César Torres Chung",
-            "bio": "Presidente del Capítulo de Ingeniería Civil del Colegio de Ingenieros del Perú - Consejo Departamental Lima"
+            "photo_sufix": "jpeg",
+            "bio": "<b>Cargo:</b> Presidente Cap. Ing. Civil<br><b>Entidad:</b> Consejo Departamental de Lima<br>El Ing. César Roberto Torres Chung es un destacado ingeniero civil peruano, conocido por su labor como presidente del Capítulo de Ingeniería Civil del CIP-CDLima. Ha liderado importantes iniciativas de capacitación y gestión, contribuyendo significativamente al desarrollo profesional de ingenieros civiles en Perú. Además, es un respetado profesor en la Universidad Ricardo Palma, donde ha influido positivamente en la formación de nuevas generaciones de ingenieros. Es graduado en Ingeniería Civil por la Universidad Ricardo Palma. Su compromiso con la mejora de la infraestructura y la educación técnica es ampliamente reconocido."
           }
         ]
       },
@@ -170,7 +174,8 @@
           {
             "id": 0,
             "name": "Ing. Yelsin Huancachoque Condorccahua",
-            "bio": "BIM Project Manager de Lima Airport Partner"
+            "photo_sufix": "jpg",
+            "bio": "<b>Cargo:</b> BIM Project Manager<br><b>Entidad:</b> Lima Airport Partner<br>El Ing. Yelsin Huancachoque Condorccahua es un destacado ingeniero civil peruano, graduado de la Universidad Nacional de San Antonio de Abad del Cusco, reconocido como “BIM Project Manager” del megaproyecto del Aeropuerto Jorge Chávez para Lima Airport Partner. Con una sólida formación en gestión de proyectos y BIM, ha liderado importantes proyectos como los Panamericanos 2019 y la “Reconstrucción con Cambios”. Además, es consultor y docente en prestigiosas universidades como UTEC y ESAN, contribuyendo significativamente a la implementación de BIM y al desarrollo de nuevas generaciones de ingenieros."
           }
         ]
       },
@@ -185,7 +190,8 @@
           {
             "id": 0,
             "name": "Ing. Samuel Oporto Díaz",
-            "bio": "Docente de Posgrado en la Universidad Nacional de Ingeniería"
+            "photo_sufix": "jpg",
+            "bio": "<b>Cargo:</b> Docente de la Facultad de Ingeniería Industrial y de Sistemas<br><b>Entidad:</b> Universidad Nacional de Ingeniería<br>Investigador en ciencia de datos, asesor y evaluador de proyectos de innovación tecnológica. Especialista en modelado matemático de procesos determinísticos y estocásticos, así como en simulación continua y discreta. Ingeniero de Sistemas por la UNI, Maestro en Sistemas Inteligentes por ITEMS y Doctor en Ingeniería de Sistemas (c) por la UNI. Docente universitario en pregrado y posgrado, además de consultor empresarial. Combina investigación, docencia y consultoría con un enfoque en la resolución de problemas complejos."
           }
         ]
       },
@@ -200,7 +206,8 @@
           {
             "id": 0,
             "name": "Abog. Eduardo Lanao Cleonares",
-            "bio": "Director Ejecutivo de Cross Partners Group"
+            "photo_sufix": "jpg",
+            "bio": "<b>Cargo:</b> Director Ejecutivo<br><b>Entidad:</b> CrossPartners Group<br>Eduardo Lanao Cleonares es un abogado peruano destacado, conocido por su trabajo en la Pontificia Universidad Católica del Perú, donde también se graduó. Ha contribuido significativamente a la literatura jurídica, especialmente en temas de ética y manipulación mediática. Su artículo “La manipulación mediática del hombre: la ética funcional frente a la ética de los principios” es un ejemplo notable de su enfoque crítico y analítico. Además, ha sido un activo colaborador en diversas publicaciones académicas y conferencias jurídicas."
           }
         ]
       },
@@ -215,7 +222,8 @@
           {
             "id": 0,
             "name": "Ing. Saul Ortiz Foglia",
-            "bio": "Gerente de Ingerniería y Desarrollo de Tale Inmobiliaria"
+            "photo_sufix": "jpg",
+            "bio": "<b>Cargo:</b> Gerente de Ingeniería y Desarrollo<br><b>Entidad:</br> Tale Inmobiliaria<br>Ingeniero Civil por la Universidad Privada Antenor Orrego, con 17 años de experiencia en gestión de proyectos de infraestructura. Posee una maestría y diplomado en Dirección y Gestión de la Construcción por la UPC. Certificado en LEAN Construction y BIM Management en Barcelona, es miembro activo de instituciones como el Lean Construction Institute y el CCI. Su trayectoria incluye la implementación de innovación tecnológica en proyectos de edificaciones, la docencia en posgrados y consultorías educativas a nivel nacional e internacional."
           }
         ]
       },
@@ -235,7 +243,8 @@
           {
             "id": 0,
             "name": "Arq. Christian Leyton Dávalos",
-            "bio": "Gerente General de Ayni Perú Arquitectura (URP)"
+            "photo_sufix": "jfif",
+            "bio": "<b>Cargo:</b> Gerente General<br><b>Entidad:</b> Ayni Perú Arquitectura y Urbanismo<br>Arquitecto graduado en la Universidad Ricardo Palma, con una Maestría en Gestión de Proyectos por la Universidad Internacional de Valencia, España, y otra en Gobierno y Políticas Públicas por la Universidad Católica del Perú. Fue Presidente del Comité BIM del Perú – CAPECO en el periodo 2016-2018, y actualmente es Gerente General de AYNI Arquitectura e Ingeniería. Forma parte del Equipo Técnico Especializado BIM del Ministerio de Vivienda y del Sub Comité BIM del INACAL, donde lidera la implementación de los estándares ISO 19650 (partes 2 y 3). Además, está certificado como Professional in Business Administration por CENTRUM Graduate Business School y Tulane University, y ha completado el programa VDC - Virtual Design & Construction del CIFE de Stanford, EEUU."
           }
         ]
       },
@@ -250,7 +259,8 @@
           {
             "id": 0,
             "name": "Ing. Juan Madrid Cisneros",
-            "bio": "Secretario Técnico de los Comités Técnicos de Normalización INACAL Perú y Presidente del Capítulo de Ingeniería Electrónica del Consejo Departamental de Lima"
+            "photo_sufix": "png",
+            "bio": "<b>Cargo:</b> Secretario Técnico de Ciudades y Comunidades Sostenibles<br><b>Entidad:</b> Instituto Nacional de Calidad Perú<br>El Ing. Juan Francisco Madrid Cisneros es presidente del Capítulo de Ingeniería Electrónica del Colegio de Ingenieros del Perú - CD Lima. Secretario Técnico de los Comités Técnicos de Normalización (CTN) 170 y 151 del INACAL, enfocados en ciudades sostenibles y centros de datos. Doctorando en Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal, con una maestría en Ingeniería de Sistemas. Combina liderazgo profesional y técnico en áreas clave de sostenibilidad y tecnología de la información."
           }
         ]
       },
@@ -262,7 +272,8 @@
           {
             "id": 0,
             "name": "Ing. Carlos Meza Montalvo",
-            "bio": "Director General de la Dirección general de Accesibilidad y Desarrollo Tecnológico"
+            "photo_sufix": "jpeg",
+            "bio": "<b>Cargo: </b>Director General de la Dirección general de Accesibilidad y Desarrollo Tecnológico<br><b>Entidad:</b> Ministerio de Vivienda, Construcción y Saneamiento<br>Ingeniero Industrial con experiencia como profesional senior en la Gerencia de Proyectos de Alta Complejidad en TI como la implementación de nubes privadas, virtualización de servidores y data centers, experiencia en Gerencia de TI y en el manejo de Oficinas de Gestión de Proyectos, Director General de la Dirección General de Accesibilidad y Desarrollo Tecnológico del Ministerio de Vivienda, Construcción y Saneamiento del Ministerio de Vivienda, Construcción y Saneamiento."
           }
         ]
       }
@@ -280,7 +291,8 @@
           {
             "id": 0,
             "name": "Ing. Carlos Meza Montalvo",
-            "bio": "Director General de la Dirección general de Accesibilidad y Desarrollo Tecnológico"
+            "photo_sufix": "jpeg",
+            "bio": "<b>Cargo: </b>Director General de la Dirección general de Accesibilidad y Desarrollo Tecnológico<br><b>Entidad:</b> Ministerio de Vivienda, Construcción y Saneamiento<br>Ingeniero Industrial con experiencia como profesional senior en la Gerencia de Proyectos de Alta Complejidad en TI como la implementación de nubes privadas, virtualización de servidores y data centers, experiencia en Gerencia de TI y en el manejo de Oficinas de Gestión de Proyectos, Director General de la Dirección General de Accesibilidad y Desarrollo Tecnológico del Ministerio de Vivienda, Construcción y Saneamiento del Ministerio de Vivienda, Construcción y Saneamiento."
           }
         ]
       },
@@ -288,14 +300,15 @@
         "id": 18,
         "large": false,
         "title": "Conferencia",
-        "description": "ASoluciones innovadoras en la construcción para la mitigación de riesgos ante desastres",
+        "description": "Soluciones innovadoras en la construcción para la mitigación de riesgos ante desastres",
         "time": "9:05 a.m.",
         "members_type": "Expositor",
         "speakers": [
           {
             "id": 0,
             "name": "Ing. César Torres Chung",
-            "bio": "Presidente de Cápitulo de Ingeniería Civil, Consejo Departamental de Lima"
+            "photo_sufix": "jpeg",
+            "bio": "<b>Cargo:</b> Presidente Cap. Ing. Civil<br><b>Entidad:</b> Consejo Departamental de Lima<br>El Ing. César Roberto Torres Chung es un destacado ingeniero civil peruano, conocido por su labor como presidente del Capítulo de Ingeniería Civil del CIP-CDLima. Ha liderado importantes iniciativas de capacitación y gestión, contribuyendo significativamente al desarrollo profesional de ingenieros civiles en Perú. Además, es un respetado profesor en la Universidad Ricardo Palma, donde ha influido positivamente en la formación de nuevas generaciones de ingenieros. Es graduado en Ingeniería Civil por la Universidad Ricardo Palma. Su compromiso con la mejora de la infraestructura y la educación técnica es ampliamente reconocido."
           }
         ]
       },
@@ -310,7 +323,8 @@
           {
             "id": 0,
             "name": "Ing. Aimar Silva Flores",
-            "bio": "Gerente General del Grupo AS"
+            "photo_sufix": "jpeg",
+            "bio": "<b>Cargo:</b> Gerente General<br><b>Entidad:</b> Grupo AS<br>Ing. Aimar Jair Silva Flores graduado en la Universidad César Vallejo, con certificación en Lean Six Sigma y Scrum. Actualmente es Especialista de Calidad en Grupo MJ, liderando la supervisión de procesos constructivos. Ha sido Jefe de Calidad en proyectos de rehabilitación de locales escolares y subestaciones eléctricas, gestionando todas las etapas. Con experiencia en minería e industria, ha trabajado para empresas como The Pisonay Company y HGV Contratistas, implementando Lean Construction y normas ISO para asegurar la calidad en proyectos."
           }
         ]
       },
@@ -324,8 +338,9 @@
         "speakers": [
           {
             "id": 0,
-            "name": "Abog. Jamil Quinto Herrera",
-            "bio": "Project Manager del BHM Ingeniería y Construcción"
+            "name": "Ing. Jamil Quinto Herrera",
+            "photo_sufix": "png",
+            "bio": "<b>Cargo:</b> Project Manager<br><b>Entidad:</b> BHM Ingeniería y Construcción<br>Ingeniero Civil por la Universidad Católica de Santa María, con una Maestría en Gerencia de la Construcción de la Universidad Peruana de Ciencias Aplicadas y un Máster Internacional en Construction Project Management de Zigurat Global Institute of Technology, especializado en BIM, LEAN, LEED e IPD. Con más de 15 años de experiencia dirigiendo y supervisando proyectos de gran envergadura, como Chancadoras Primarias, Centrales Hidroeléctricas, Presas de Relaves y Túneles. Con una sólida formación en Gestión de Proyectos, certificado como PMP."
           }
         ]
       },
@@ -339,8 +354,9 @@
         "speakers": [
           {
             "id": 0,
-            "name": "Ing. Alexandre Almeide del Savio",
-            "bio": "Conexig LLC, Docente de la Universidad de Lima"
+            "name": "Ing. Alexandre Almeida del Savio",
+            "photo_sufix": "jpg",
+            "bio": "<b>Cargo:</b> Country Director<br><b>Entidad:</b> Conexing LLC<br>Alexandre Almeida Del Savio es Doctor en Ingeniería Civil por la Pontificia Universidad Católica del Rio de Janeiro y mentor certificado en VDC por la Universidad de Stanford. Con más de 22 años de experiencia, ha liderado la gestión de ingeniería en megaproyectos de infraestructura. Es socio y gerente general en Perú de CONEXIG, testigo experto y perito técnico en arbitrajes internacionales. Además, es investigador y ejerce la docencia en la Universidad de Lima."
           }
         ]
       },
@@ -355,7 +371,8 @@
           {
             "id": 0,
             "name": "Ing. Máximo Ayala Gutiérrez",
-            "bio": "Coordinador UGERDES del Ministerio de Vivienda, Construcción y Saneamiento"
+            "photo_sufix": "jpg",
+            "bio": "<b>Cargo:</b> Especialista en Prevención y Análisis de Riesgos de Desastres<br><b>Entidad:</b> Ministerio de Vivienda, Construcción y Saneamiento<br>Ingeniero Geógrafo especializado en Medio Ambiente y Recursos Naturales (UNMSM), con segunda especialidad en Ordenamiento Territorial (UNFV) y Maestría en Ciencias Ambientales (UNMSM). Cuenta con experiencia en el Ministerio de la Presidencia, ONPE, y el Ministerio de Vivienda. Docente en la UNMSM y profesor invitado en diversas universidades. Actualmente es Responsable de la Unidad de Riesgo de Desastre en el Programa Nuestras Ciudades del Ministerio de Vivienda, Construcción y Saneamiento."
           }
         ]
       },
@@ -370,7 +387,8 @@
           {
             "id": 0,
             "name": "Arq. Liliana Collado Guerra",
-            "bio": "Directora Regional de Economía y Finanzas del Colegio de Arquitectos del Perú, Regional Lima"
+            "photo_sufix": "jpeg",
+            "bio": "<b>Cargo:</b> Directora Regional de Economía y Finanzas<br><b>Entidad:</b> Colegio de Arquitectos del Perú - Región Lima<br>La Arq. Liliana Collado Guerra, graduada en la Universidad Ricardo Palma con especialidad en Planificación y Gestión Urbano Regional, es una destacada profesional con amplia experiencia en dirección y gestión de proyectos en los sectores público y privado. Ha trabajado como consultora y ha ocupado cargos directivos, integrando equipos multidisciplinarios. Actualmente, es Directora de Economía y Finanzas del Consejo Regional Lima del Colegio de Arquitectos del Perú, donde contribuye significativamente al desarrollo del gremio."
           }
         ]
       },
@@ -382,7 +400,8 @@
           {
             "id": 0,
             "name": "Ing. Carlos Meza Montalvo",
-            "bio": "Director General de la Dirección general de Accesibilidad y Desarrollo Tecnológico"
+            "photo_sufix": "jpeg",
+            "bio": "<b>Cargo: </b>Director General de la Dirección general de Accesibilidad y Desarrollo Tecnológico<br><b>Entidad:</b> Ministerio de Vivienda, Construcción y Saneamiento<br>Ingeniero Industrial con experiencia como profesional senior en la Gerencia de Proyectos de Alta Complejidad en TI como la implementación de nubes privadas, virtualización de servidores y data centers, experiencia en Gerencia de TI y en el manejo de Oficinas de Gestión de Proyectos, Director General de la Dirección General de Accesibilidad y Desarrollo Tecnológico del Ministerio de Vivienda, Construcción y Saneamiento del Ministerio de Vivienda, Construcción y Saneamiento."
           }
         ]
       },
