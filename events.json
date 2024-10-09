@@ -139,8 +139,9 @@
         "speakers": [
           {
             "id": 0,
-            "name": "Ing. Martín Collado Ramírez",
-            "bio": "Director General de la Dirección General de Accesibilidad y Desarrollo Tecnológico"
+            "name": "Ing. Carlos Meza Montalvo",
+            "photo_sufix": "jpeg",
+            "bio": "<b>Cargo: </b>Director General de la Dirección general de Accesibilidad y Desarrollo Tecnológico<br><b>Entidad:</b> Ministerio de Vivienda, Construcción y Saneamiento<br>Ingeniero Industrial con experiencia como profesional senior en la Gerencia de Proyectos de Alta Complejidad en TI como la implementación de nubes privadas, virtualización de servidores y data centers, experiencia en Gerencia de TI y en el manejo de Oficinas de Gestión de Proyectos, Director General de la Dirección General de Accesibilidad y Desarrollo Tecnológico del Ministerio de Vivienda, Construcción y Saneamiento del Ministerio de Vivienda, Construcción y Saneamiento."
           }
         ]
       }
