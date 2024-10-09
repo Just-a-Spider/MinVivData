@@ -10,13 +10,13 @@
         "speakers": [
           {
             "id": 0,
-            "name": "David Ramos López",
-            "bio": "Viceministro de Vivienda y Urbanismo del Ministerio de Vivienda, Construcción y Saneamiento "
+            "name": "Carlos Meza Montalvo",
+            "bio": "Director General de la Dirección General de Accesibilidad y Desarrollo Tecnológico"
           },
           {
             "id": 1,
-            "name": "Carlos Meza Montalvo",
-            "bio": "Director general de la Dirección General de Accesibilidad y Desarrollo Tecnológico"
+            "name": "David Ramos López",
+            "bio": "Viceministro de Vivienda y Urbanismo del Ministerio de Vivienda, Construcción y Saneamiento "
           },
           {
             "id": 2,
@@ -29,10 +29,8 @@
         "id": 2,
         "large": false,
         "title": "Panel",
-        "description": "Innovación a través de modelos de negocio en la construcción progresiva de vivienda. Sistemas de mercado",
-        "slides": "",
+        "description": "Innovación a través de Modelos de Negocio en la Construcción Progresiva de Vivienda. Sistemas de Mercado",
         "time": "10:00 a.m.",
-        "qaTime": "10:30 a.m.",
         "members_type": "Panelistas",
         "speakers": [
           {
@@ -48,7 +46,7 @@
           {
             "id": 2,
             "name": "Jesús Meza Luna",
-            "bio": "Gerente comercial de Inversiones IO"
+            "bio": "Gerente Comercial de Inversiones IO"
           },
           {
             "id": 3,
@@ -63,16 +61,14 @@
         "id": 3,
         "large": true,
         "title": "Conferencia",
-        "description": "Hacia el futuro de la vivienda noble en el Perú: desde la intersección del diseño computacional, fabricación digital, madera tratada, ensamblaje/desmontaje y código abierto para carbono negativo",
-        "slides": "",
+        "description": "Hacia el Futuro de la Vivienda Noble en el Perú: Desde la Intersección del Diseño Computacional, Fabricación Digital, Madera Tratada, Ensamblaje/Desmontaje y Código Abierto para Carbono Negativo",
         "time": "10:45 a.m.",
-        "qaTime": "11:10 a.m.",
         "members_type": "Expositor",
         "speakers": [
           {
             "id": 0,
             "name": "Arq. Emerson Porras Sánchez",
-            "bio": "Docente de la Universidad Ricardo Palma"
+            "bio": "Cargo: Docente de la Facultad de Arquitectura y Urbanismo\nEntidad: Universidad Ricardo Palma,\nArquitecto por la Universidad Ricardo Palma, con estudios de Maestría en la Architectural Association School of Architecture de Londres y en Docencia e Investigación por la Universidad San Martín de Porres. Con más de 18 años de trayectoria profesional, se desempeña como Codirector del Laboratorio de Diseño y Fabricación Digital de la FAU URP, además de ser investigador registrado en RENACYT. Ha sido reconocido por su innovación pedagógica y cuenta con diversas publicaciones sobre tecnologías emergentes en arquitectura."
           }
         ]
       },
@@ -85,16 +81,14 @@
         "id": 5,
         "large": false,
         "title": "Panel",
-        "description": "Mecanismos de financiamiento para mejoras progresivas de vivienda en poblaciones vulnerables. Microcréditos",
-        "slides": "",
+        "description": "Mecanismos de Financiamiento para Mejoras Progresivas de Vivienda en Poblaciones Vulnerables. Microcréditos",
         "time": "11:45 a.m.",
-        "qaTime": "12:15 a.m.",
         "members_type": "Panelistas",
         "speakers": [
           {
             "id": 0,
             "name": "José Cerrón Valdivia",
-            "bio": "Director general de la Dirección General de Políticas y Regulación de Vivienda y Urbanismo del MVCS"
+            "bio": "Director General de la Dirección General de Políticas y Regulación de Vivienda y Urbanismo del MVCS"
           },
           {
             "id": 1,
@@ -109,10 +103,8 @@
         "id": 6,
         "large": false,
         "title": "Panel",
-        "description": "El impacto de la construcción progresiva de vivienda",
-        "slides": "",
+        "description": "El Impacto de la Construcción Progresiva de Vivienda",
         "time": "12:30 a.m.",
-        "qaTime": "12:55 a.m.",
         "members_type": "Panelistas",
         "speakers": [
           {
@@ -123,11 +115,11 @@
           {
             "id": 1,
             "name": "Gema Strático",
-            "bio": "Directora regional de Hábitat para la Humanidad"
+            "bio": "Directora Regional de Hábitat para la Humanidad"
           }
         ],
         "moderator": "Gema Strático",
-        "moderator_data": "Directora Regional - Hábitat para la Humanidad"
+        "moderator_data": "Directora Regional de Hábitat para la Humanidad"
       },
       {
         "id": 7,
@@ -137,7 +129,7 @@
           {
             "id": 0,
             "name": "Ing. Martín Collado Ramírez",
-            "bio": "Director de Innovación y Desarrollo Tecnológico - DIDT"
+            "bio": "Director General de la Dirección General de Accesibilidad y Desarrollo Tecnológico"
           }
         ]
       }
@@ -147,56 +139,122 @@
     "registerFormsUrl": "",
     "morning": [
       {
-        "id": 7,
-        "title": "Presentation 7",
-        "description": "Description 7",
-        "date": "2020-01-07",
-        "time": "15:00",
+        "id": 8,
+        "title": "Bienvenida",
+        "time": "9:00 a.m.",
+        "members_type": "Presentador",
         "speakers": [
           {
             "id": 0,
-            "name": "speaker 1",
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "photo": "photo 1"
-          },
-          {
-            "id": 1,
-            "name": "speaker 2",
-            "bio": "bio 2",
-            "photo": "photo 2"
-          },
-          {
-            "id": 2,
-            "name": "speaker 3",
-            "bio": "bio 3",
-            "photo": "photo 3"
+            "name": "Ing. César Torres Chung",
+            "bio": "Presidente del Capítulo de Ingeniería Civil del Colegio de Ingenieros del Perú - Consejo Departamental Lima"
           }
         ]
       },
       {
-        "id": 8,
-        "title": "Presentation 8",
-        "description": "Description 8",
-        "date": "2020-01-08",
-        "time": "15:00",
+        "id": 9,
+        "large": false,
+        "title": "Conferencia",
+        "description": "Aplicación BIM en Megaproyectos de Edificación",
+        "time": "9:05 a.m.",
+        "members_type": "Expositor",
         "speakers": [
           {
             "id": 0,
-            "name": "speaker 1",
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "photo": "photo 1"
-          },
+            "name": "Ing. Yelsin Huancachoque Condorccahua",
+            "bio": "BIM Project Manager de Lima Airport Partner"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "large": true,
+        "title": "Conferencia",
+        "description": "Clasificación Inteligente de Residuos Sólidos. Algoritmo de Visión por Computadora para la Clasificación de Residuos y Optimizar el Proceso de Reciclaje",
+        "time": "9:45 a.m.",
+        "members_type": "Expositor",
+        "speakers": [
           {
-            "id": 1,
-            "name": "speaker 2",
-            "bio": "bio 2",
-            "photo": "photo 2"
-          },
+            "id": 0,
+            "name": "Ing. Samuel Oporto Díaz",
+            "bio": "Docente de Posgrado en la Universidad Nacional de Ingeniería"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "large": false,
+        "title": "Conferencia",
+        "description": "Estrategias Innovadoras para la gestión de Proyectos en la Prevención de Desastres Naturales",
+        "time": "10:25 a.m.",
+        "members_type": "Expositor",
+        "speakers": [
           {
-            "id": 2,
-            "name": "speaker 3",
-            "bio": "bio 3",
-            "photo": "photo 3"
+            "id": 0,
+            "name": "Abog. Eduardo Lanao Cleonares",
+            "bio": "Director Ejecutivo de Cross Partners Group"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "large": false,
+        "title": "Conferencia",
+        "description": "Aplicación de Plataformas Digitales Colaborativas y Virtual Design & Construction (VDC)",
+        "time": "11:05 a.m.",
+        "members_type": "Expositor",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "Ing. Saul Ortiz Foglia",
+            "bio": "Gerente de Ingerniería y Desarrollo de Tale Inmobiliaria"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Coffee Break",
+        "time": "11:30 a.m."
+      },
+      {
+        "id": 14,
+        "large": true,
+        "title": "Conferencia",
+        "description": "La importancia de los Estándares BIM en la gestión de proyectos de obra pública para mejorar la productividad de las organizaciones",
+        "time": "11:50 a.m.",
+        "members_type": "Expositor",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "Arq. Christian Leyton Dávalos",
+            "bio": "Gerente General de Ayni Perú Arquitectura (URP)"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "large": false,
+        "title": "Conferencia",
+        "description": "Ciudades inteligentes para una construcción sostenible",
+        "time": "12:30 p.m.",
+        "members_type": "Expositor",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "Ing. Juan Madrid Cisneros",
+            "bio": "Secretario Técnico de los Comités Técnicos de Normalización INACAL Perú y Presidente del Capítulo de Ingeniería Electrónica del Consejo Departamental de Lima"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Conclusiones y manifiesto por la innovación en el sector",
+        "time": "1:10 p.m.",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "Ing. Carlos Meza Montalvo",
+            "bio": "Director General de la Dirección general de Accesibilidad y Desarrollo Tecnológico"
           }
         ]
       }
@@ -206,56 +264,129 @@
     "registerFormsUrl": "",
     "morning": [
       {
-        "id": 13,
-        "title": "Presentation 13",
-        "description": "Description 13",
-        "date": "2020-01-13",
-        "time": "15:00",
+        "id": 17,
+        "title": "Bienvenida",
+        "time": "9:00 a.m.",
+        "members_type": "Presentador",
         "speakers": [
           {
             "id": 0,
-            "name": "speaker 1",
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "photo": "photo 1"
-          },
-          {
-            "id": 1,
-            "name": "speaker 2",
-            "bio": "bio 2",
-            "photo": "photo 2"
-          },
-          {
-            "id": 2,
-            "name": "speaker 3",
-            "bio": "bio 3",
-            "photo": "photo 3"
+            "name": "Ing. Carlos Meza Montalvo",
+            "bio": "Director General de la Dirección general de Accesibilidad y Desarrollo Tecnológico"
           }
         ]
       },
       {
-        "id": 14,
-        "title": "Presentation 14",
-        "description": "Description 14",
-        "date": "2020-01-14",
-        "time": "15:00",
+        "id": 18,
+        "large": false,
+        "title": "Conferencia",
+        "description": "ASoluciones innovadoras en la construcción para la mitigación de riesgos ante desastres",
+        "time": "9:05 a.m.",
+        "members_type": "Expositor",
         "speakers": [
           {
             "id": 0,
-            "name": "speaker 1",
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "photo": "photo 1"
-          },
+            "name": "Ing. César Torres Chung",
+            "bio": "Presidente de Cápitulo de Ingeniería Civil, Consejo Departamental de Lima"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "large": false,
+        "title": "Conferencia",
+        "description": "Demostración de software \"Construction Cloud\" para gestión y ejecución de proyectos",
+        "time": "9:40 a.m.",
+        "members_type": "Expositor",
+        "speakers": [
           {
-            "id": 1,
-            "name": "speaker 2",
-            "bio": "bio 2",
-            "photo": "photo 2"
-          },
+            "id": 0,
+            "name": "Ing. Aimar Silva Flores",
+            "bio": "Gerente General del Grupo AS"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "large": true,
+        "title": "Conferencia",
+        "description": "Impacto de las innovaciones en la gestión de proyectos sostenibles: Hacia una construcción eficiente y responsable",
+        "time": "10:15 a.m.",
+        "members_type": "Expositor",
+        "speakers": [
           {
-            "id": 2,
-            "name": "speaker 3",
-            "bio": "bio 3",
-            "photo": "photo 3"
+            "id": 0,
+            "name": "Abog. Jamil Quinto Herrera",
+            "bio": "Project Manager del BHM Ingeniería y Construcción"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "large": false,
+        "title": "Conferencia",
+        "description": "Uso de BIM y VDC",
+        "time": "10:50 a.m.",
+        "members_type": "Expositor",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "Ing. Alexandre Almeide del Savio",
+            "bio": "Conexig LLC, Docente de la Universidad de Lima"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "large": false,
+        "title": "Conferencia",
+        "description": "Estrategias y uso de tecnologías para la reducción de riesgo de desastres en las ciudades",
+        "time": "11:25 a.m.",
+        "members_type": "Expositor",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "Ing. Máximo Ayala Gutiérrez",
+            "bio": "Coordinador UGERDES del Ministerio de Vivienda, Construcción y Saneamiento"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "large": false,
+        "title": "Conferencia",
+        "description": "La innovación como herramienta para nuestras ciudades",
+        "time": "12:00 p.m.",
+        "members_type": "Expositora",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "Arq. Liliana Collado Guerra",
+            "bio": "Directora Regional de Economía y Finanzas del Colegio de Arquitectos del Perú, Regional Lima"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Conclusiones y cierre",
+        "time": "12:35 p.m.",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "Ing. Carlos Meza Montalvo",
+            "bio": "Director General de la Dirección general de Accesibilidad y Desarrollo Tecnológico"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Clausura",
+        "time": "12:35 p.m.",
+        "speakers": [
+          {
+            "id": 0,
+            "name": "David Ramos López",
+            "bio": "Viceministro de Vivienda y Urbanismo del Ministerio de Vivienda, Construcción y Saneamiento"
           }
         ]
       }
