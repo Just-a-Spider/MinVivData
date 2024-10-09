@@ -93,16 +93,18 @@
           {
             "id": 0,
             "name": "José Cerrón Valdivia",
-            "bio": "Director General de la Dirección General de Políticas y Regulación de Vivienda y Urbanismo del MVCS"
+            "photo_sufix": "jpg",
+            "bio": "<b>Cargo:</b> Director General de la Dirección General de Políticas y Regulación en Vivienda y Urbanismo<br><b>Entidad:</b> Ministerio de Vivienda, Construcción y Saneamiento<br>José Antonio Cerrón Valdivia es el Director General de la Dirección General de Políticas y Regulación en Vivienda y Urbanismo desde el 5 de enero de 202212. Es abogado y ha trabajado en diversas áreas relacionadas con la gestión pública y el desarrollo urbano. Su experiencia incluye la implementación de políticas de vivienda de interés social y la regulación urbanística en Perú. Cerrón Valdivia se enfoca en mejorar la planificación y desarrollo de las ciudades peruanas."
           },
           {
             "id": 1,
             "name": "John Sarmiento Tupayachi",
-            "bio": "Gerente de Servicios Financieros de la Federación Peruana de Cajas Municipales"
+            "photo_sufix": "jpg",
+            "bio": "<b>Cargo:</b> Gerente de Servicios Corporativos<br><b>Entidad:</b> Federación Peruana de Cajas Municipales de Ahorro y Crédito - FEPCMAC<br>John Sarmiento Tupayachi es Gerente de Servicios Corporativos en la Federación Peruana de Cajas Municipales de Ahorro y Crédito FEPCMAC.<br>Cuenta con más de 24 años de experiencia en la industria microfinanciera, desempeñándose durante este tiempo como Director Comercial en empresas globales, liderando desde la Estrategia de Negocios y el Desarrollo de Productos y Servicios Innovadores.<br>John Sarmiento es consultor en empresas del sistema financiero y microfinanciero líderes del mercado peruano, gestionando el diseño de modelos de negocio disruptivos, tecnológicos y digitales.<br>John Sarmiento cuenta con estudios de post grado en la Universidad Uniempresarial de Colombia y estudios en Alta Dirección en Microfinanzas de la Universidad ESAN y ESIC Business & Marketing School de España."
           }
         ],
         "moderator": "Rodolfo Santa María Razzeto",
-        "moderator_data": "CEO de MASHA"
+        "moderator_data": "<b>Cargo:</b> CEO<br><b>Entidad:</b> Masha Perú S.A.C.<br>Arquitecto - MBA, Director de MASHA-PERÚ y actualmente Presidente del Perú Green Building Council, Promotor del Mercado de Hipotecas Verdes en el Perú, becario de la Cooperación Holandesa, Sueca y Alemana, Consultor de Cooperación Internacional y de la Industria Local (ADI+ASEI+CAPECO), Docente de la Maestría en Dirección de Empresas Inmobiliarias de CENTRUM, ex Gerente de Proyectos en el Fondo Mivivienda y Ex Viceministro de Vivienda y Urbanismo."
       },
       {
         "id": 6,
@@ -115,16 +117,17 @@
           {
             "id": 0,
             "name": "Álvaro Espinoza Benza",
-            "bio": "Investigador de GRADE"
+            "photo_sufix": "jpg",
+            "bio": "<b>Cargo:</b> Investigador<br><b>Entidad:</b> GRADE<br>Álvaro Espinoza es economista de la Pontificia Universidad Católica del Perú y tiene una Maestría en Ciencias Políticas por el New School for Social Research, de Nueva York. Es Investigador Adjunto de GRADE, donde ha publicado múltiples trabajos sobre desarrollo territorial, con especial énfasis en desarrollo urbano. Ha sido consultor e investigador para diversos organismos internacionales, y ha ocupado varios cargos de alta dirección en instituciones públicas peruanas vinculados a la política urbana y territorial."
           },
           {
             "id": 1,
             "name": "Gema Strático",
-            "bio": "Directora Regional de Hábitat para la Humanidad"
+            "bio": "<b>Cargo:</b> Directora Regional<br><b>Entidad:</b> Hábitat para la Humanidad Internacional<br>Gema Stratico es la Directora Regional para América Latina y el Caribe de Hábitat para la Humanidad Internacional, con casi una década de experiencia en vivienda inclusiva y sistemas de mercado. Lidera esfuerzos para hacer que la vivienda sea accesible para familias de bajos ingresos en Perú, aprovechando sus habilidades en emprendimiento social y relaciones internacionales. En el Centro Terwilliger para la Innovación en Vivienda, supervisa la investigación, el diseño de programas y la implementación de soluciones innovadoras y sostenibles para la vivienda. Gema tiene una maestría en Políticas Públicas de Desarrollo Internacional de la Universidad de Duke y una licenciatura en Administración de Empresas de la Universidad del Salvador, con más de 15 años de experiencia en microfinanzas para vivienda y sistemas de mercado."
           }
         ],
         "moderator": "Gema Strático",
-        "moderator_data": "Directora Regional de Hábitat para la Humanidad"
+        "moderator_data": "<b>Cargo:</b> Directora Regional<br><b>Entidad:</b> Hábitat para la Humanidad Internacional<br>Gema Stratico es la Directora Regional para América Latina y el Caribe de Hábitat para la Humanidad Internacional, con casi una década de experiencia en vivienda inclusiva y sistemas de mercado. Lidera esfuerzos para hacer que la vivienda sea accesible para familias de bajos ingresos en Perú, aprovechando sus habilidades en emprendimiento social y relaciones internacionales. En el Centro Terwilliger para la Innovación en Vivienda, supervisa la investigación, el diseño de programas y la implementación de soluciones innovadoras y sostenibles para la vivienda. Gema tiene una maestría en Políticas Públicas de Desarrollo Internacional de la Universidad de Duke y una licenciatura en Administración de Empresas de la Universidad del Salvador, con más de 15 años de experiencia en microfinanzas para vivienda y sistemas de mercado."
       },
       {
         "id": 7,
